@@ -6,7 +6,7 @@ function Hero() {
   return (
     <div className="hero">
       <img src={profilePic} alt="Foto Jayong" className="hero-image" />
-      <h1>Hello, I'm Jayong</h1>
+      <h1>Hello, I'm Peter</h1>
       <p>Welcome to my portfolio website!</p>
     </div>
   );

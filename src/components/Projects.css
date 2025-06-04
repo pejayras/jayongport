@@ -1,0 +1,25 @@
+.projects-container {
+  padding: 40px;
+  text-align: center;
+  background-color: #f8f8f8;
+}
+
+.project-grid {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.project-image {
+  width: 300px;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  cursor: pointer;
+}
+
+.project-image:hover {
+  transform: scale(1.05);
+}
