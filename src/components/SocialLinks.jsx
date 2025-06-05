@@ -16,7 +16,7 @@ const SocialLinks = () => {
       <a href="https://www.facebook.com/pejayra" target="_blank" rel="noopener noreferrer" className="hover:text-blue-800">
         <FaFacebook />
       </a>
-      <a href="https://wa.me/081262730609" target="_blank" rel="noopener noreferrer" className="hover:text-green-500">
+      <a href="https://wa.me/6281262730609" target="_blank" rel="noopener noreferrer" className="hover:text-green-500">
         <FaWhatsapp />
       </a>
     </div>
