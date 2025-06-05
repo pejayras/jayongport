@@ -9,7 +9,7 @@ import robot5 from '../assets/robot5.png';
 const Projects = () => {
   return (
     <div className="projects-container">
-      <h2>My Work</h2>
+      <h2>Gallery</h2>
       <div className="project-grid">
         <img src={robot1} alt="Robotik 1" className="project-image" />
         <img src={robot2} alt="Robotik 2" className="project-image" />

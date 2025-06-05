@@ -1,0 +1,14 @@
+.social-links {
+  padding: 10px;
+  text-align: center;
+}
+
+.social-links a {
+  color: #555;
+  transition: transform 0.3s, color 0.3s;
+}
+
+.social-links a:hover {
+  color: #1d4ed8; /* warna biru */
+  transform: scale(1.2);
+}
